@@ -5,3 +5,6 @@ An OIX Alpha project building on a [Whitepaper](https://openidentityexchange.org
 ## Wiki
 
 [Wiki](https://github.com/open-ecosystem-federation/federated-events-attributes-reasoning-alpha/wiki) including workshop breakdown and other emerging artefacts.
+
+* [Draft Technical Specification](https://github.com/open-ecosystem-federation/federated-events-attributes-reasoning-alpha/wiki/Draft-Specification)
+* [Draft Rules of Engagement](https://github.com/open-ecosystem-federation/federated-events-attributes-reasoning-alpha/wiki/Draft-RoE)
