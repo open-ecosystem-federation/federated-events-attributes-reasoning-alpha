@@ -1,4 +1,6 @@
-**under construction - pre-alpha**
+**deprecated - please see [Ecosystem Toolkit](https://github.com/open-ecosystem-federation/ecosystem-toolkit)**
+
+This alpha concluded successfully. The repository is preserved for posterity.
 
 # Federated event based attribute assurance and reasoning - OIX Alpha
 
